@@ -21,16 +21,14 @@ frequency components, therefore a filter with 0.3 Hz cutoff frequency
 was used. From each window, a vector of features was obtained by
 calculating variables from the time and frequency domain.
 
-Check the [a relative link](README.md) file for further details about
+Check the [README](README.md) file for further details about
 this dataset.
 
 A video of the experiment including an example of the 6 recorded
 activities with one of the participants can be seen in the following
-link: [Web
-Link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+link: [Human Activity](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-An updated version of this dataset can be found at [Web
-Link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
+An updated version of this dataset can be found at [this link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 It includes labels of postural transitions between activities and also
 the full raw inertial signals instead of the ones pre-processed into
 windows.
