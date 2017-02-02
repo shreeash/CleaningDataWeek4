@@ -10,8 +10,7 @@ the course website represent data collected from the accelerometers from
 the Samsung Galaxy S smartphone. A full description is available at the
 site where the data was obtained:
 
-[web
-link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+[Data Collection](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 Run Data Analysis
 -----------------
@@ -26,5 +25,4 @@ tidy.txt.
 
 Put the R code in a file called Run\_analysis.R.
 
-Note: For more information about data and analysis read [a relative
-link](Codebook.md)
+Note: For more information about data and analysis read [Codebook.md](Codebook.md)
